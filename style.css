@@ -1,0 +1,19 @@
+/* CSS for Classical Elements */
+@import url('https://fonts.googleapis.com/css?family=Lato:300');
+body {
+  background-color: ghostwhite;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+
+
+
+svg.icons {
+  stroke-width: 7px;
+  stroke:black;
+  fill: none;
+  width: 6em;
+  height: 6em;
+  padding: 1em;
+  padding-top: 3em;
+}
